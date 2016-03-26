@@ -1,2 +1,2 @@
 # NeeroNet
-A Raspberry Pi Smart Water Meter
+NeeroNet is an integrated and intelligent real-time water assessment model with smart analytics. Using machine learning and IoT to efficiently monitor water usage, NeeroNet can survey different activities of industry, household and agriculture in urban and rural regions of developing countries. In addition, our system will monitor rainwater harvested for groundwater replenishment when installed in channelized tanks on rooftops and alert for leakages in the distribution network when installed in the pipelines.
